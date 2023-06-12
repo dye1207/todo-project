@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "checked": false,
+      "content": "셋째랑 산책하기",
+      "id": 1
+    },
+    {
+      "checked": false,
+      "content": "지벨리에서 저녁먹고 첫째랑 배열 공부하기",
+      "id": 2
+    },
+    {
+      "checked": false,
+      "content": "리액트 복습하기",
+      "id": 3
+    },
+    {
+      "checked": false,
+      "content": "반숙란 사기",
+      "id": 4
+    }
+  ]
+}
